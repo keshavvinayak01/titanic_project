@@ -8,3 +8,7 @@ does not use any machine learning algorithms
 
 FUTURE : 
 will use prediction models using ML
+
+
+Edit :
+Will shorten the unnecessary long codes by using lambda functions.
