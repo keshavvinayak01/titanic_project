@@ -10,5 +10,8 @@ FUTURE :
 will use prediction models using ML
 
 
-Edit :
+Edit(1) :
 Will shorten the unnecessary long codes by using lambda functions.
+
+Edit(2):
+Added a new file implementing linear regression using gradient descent to predict survival of a passenger
